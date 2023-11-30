@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">A passionate geospatial developer in Tennessee</h3>
+<h3 align="center">A {insert marketable adjective here} geospatial developer in Tennessee</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjm3q&label=Snoopers/Poopers&color=dd502c&style=flat" alt="rjm3q" /> </p>
