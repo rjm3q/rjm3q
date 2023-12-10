@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **A secret React-Leaflet project..Stay Tuned!!!**
 
-- 🌱 I’m currently learning **Back End stuff**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **GIS, Front End (JS, React, HTML/CSS), Making Web Mapping applications**
 
